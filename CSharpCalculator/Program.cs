@@ -17,7 +17,7 @@ class Program
             double result = 0;
 
             // Ask the user to type the first number.
-            Console.Write("Type a number, and then press enter: ");
+            Console.Write("Type a number, and then press Enter: ");
             numInput1 = Console.ReadLine();
 
             double cleanNum1 = 0;
